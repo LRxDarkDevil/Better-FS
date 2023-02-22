@@ -1,0 +1,22 @@
+{
+  "name": "better-fs",
+  "version": "1.0.0",
+  "description": "Better FS for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRxDarkDevil/Better-FS.git"
+  },
+  "keywords": [
+    "Better-FS"
+  ],
+  "author": "LRxDarkDevil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRxDarkDevil/Better-FS/issues"
+  },
+  "homepage": "https://github.com/LRxDarkDevil/Better-FS#readme"
+}
